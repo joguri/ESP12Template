@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../ESP Cam Board"
+		},
+		{
+			"name": "ESP12 Board",
+			"path": "../ESP12 Board"
+		},
+		{
+			"name": "TotalGymProject",
+			"path": "../TotalGymProject"
+		},
+		{
+			"name": "i2cScanner",
+			"path": "."
+		},
+		{
+			"name": "ESP32 Test",
+			"path": "../ESP32 Test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp"
+		}
+	}
+}
